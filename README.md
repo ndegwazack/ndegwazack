@@ -8,8 +8,12 @@ Web Developer & Designer
 *   🖥️  See my portfolio at [MyPortfolio](http://zeddysigner.netlify.app/)
 *   ✉️  You can contact me at [ndegwangugi1@gmail.com](mailto:ndegwangugi1@gmail.com)
 *   🧠  I'm learning Python and the Django framework
-*   🤝  I'm open to collaborating on interesting projects<a href="https://www.github.com/ndegwazack" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/ndegwazack?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+*   🤝  I'm open to collaborating on interesting projects
+
+
+<a href="https://www.github.com/ndegwazack" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/ndegwazack?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
