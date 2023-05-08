@@ -5,7 +5,7 @@ Web Developer & Designer
 ------------------------
 
 *   🌍  I'm based in Nairobi
-*   🖥️  See my portfolio at [MyPortfolio](http://zeddysigner.netlify.app/)
+*   🖥️  See my portfolio at [MyPortfolio](https://ndegwazack.netlify.app/)
 *   ✉️  You can contact me at [ndegwangugi1@gmail.com](mailto:ndegwangugi1@gmail.com)
 *   🧠  I'm learning Python and the Django framework
 *   🤝  I'm open to collaborating on interesting projects
